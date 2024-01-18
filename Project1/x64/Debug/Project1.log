@@ -1,4 +1,0 @@
-﻿  Time.cpp
-  LINK : не найден или не выполнена сборка C:\Users\User\source\repos\Project1\x64\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
-Time.obj : error LNK2005: main уже определен в stihotvorenie.obj
-C:\Users\User\source\repos\Project1\x64\Debug\Project1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
